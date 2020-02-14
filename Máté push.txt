@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Conflict arises!
+=======
+asdfasdfsadsadsad
+>>>>>>> Btry
