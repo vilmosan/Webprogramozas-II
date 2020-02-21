@@ -1,7 +1,1 @@
 My first push not yours.
-<<<<<<< HEAD
-Ha ha ha
-=======
-
-konfliktus
->>>>>>> mod2
