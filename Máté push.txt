@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Kun Máté txtxt
-=======
-Conflict arises!
->>>>>>> 9cba4916377f969596326b78f522e54ec3a8400f
+Kun Máté
+
