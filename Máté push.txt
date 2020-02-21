@@ -1,2 +1,7 @@
 Kun Máté
+<<<<<<< HEAD
 Nyammi!
+=======
+
+KOOOOONFLIIIIIIKTUUUUUS
+>>>>>>> mod3
