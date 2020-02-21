@@ -19,3 +19,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+0. git pull origin master
+1. git branch <branchname>
+2. git checkout <branchname>
+3. git add . +++ git commit -m "..." (Ismétlődő lépés lehet)
+----------------------------
+4. git checkout master
+5. git pull  origin master
+6. git checkout <branchname>
+7. git rebase <branchname>
+8. git add
+9. git rebase --continue
++++++++++++++++++++++++++++
+10. git checkout master
+11. git pull  master
+12. rebase
+13. merge
